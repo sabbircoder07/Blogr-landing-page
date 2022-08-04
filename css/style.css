@@ -117,7 +117,7 @@ a {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 3.2rem;
+  gap: 3.8rem;
 }
 
 .nav-list {
@@ -125,7 +125,7 @@ a {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 2.8rem;
+  gap: 3.2rem;
 }
 
 .nav-link {
@@ -217,7 +217,7 @@ a {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  margin: 5rem 0;
+  margin: 10rem 0;
 }
 
 .hero-header {
@@ -229,7 +229,7 @@ a {
 .hero-text {
   font-size: 1.6rem;
   color: hsl(0, 0%, 100%);
-  margin-bottom: 3.8rem;
+  margin-bottom: 4.8rem;
 }
 .hero-button {
   display: flex;
@@ -279,8 +279,8 @@ a {
   flex-direction: column;
   align-items: center;
   justify-items: center;
-  margin-top: 10rem;
-  margin-bottom: 10rem;
+  margin-top: 15rem;
+  margin-bottom: 15rem;
 }
 .feature-header {
   font-size: 4.4rem;
@@ -363,8 +363,9 @@ a {
 
 .footer {
   background-color: hsl(240, 10%, 16%);
-  padding: 5rem 5rem 5rem 0;
+  padding: 8rem 5rem 8rem 5rem;
   border-radius: 0 10rem 0 0;
+  margin-top: 15rem;
 }
 
 .footer-setcion {
